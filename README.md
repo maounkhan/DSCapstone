@@ -1,0 +1,1 @@
+This was a GitHub repository created for the Applied Data Science Capstone of the IBM Data Science professional certificate. The purpose of this was to demonstrate practical skills and knowledge used by data scientists, such as importing datasets, data cleaning, data analysis and visualization, as well as building machine learning models and pipelines.
